@@ -1,7 +1,7 @@
 <h2 align="center">Password-Generator</h2>
 
 <p align="center">
-  <em> The hometown homepage is my third project of Scrimba Front-End course, in this course, I build a password generator from scratch and learn to code a function to generate a random password.</em>
+  <em> The hometown homepage is my third project of the Scrimba Front-End course, in this course, I build a password generator from scratch and learn to code a function to generate a random password.</em>
 </p>
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com) [![Join the chat at https://gitter.im/Front-End-Checklist/Front-End-Design-Checklist](https://badges.gitter.im/Front-End-Checklist/Front-End-Design-Checklist.svg)](https://gitter.im/Front-End-Checklist/Front-End-Design-Checklist) [![CC0](https://img.shields.io/badge/license-CC0-green.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
@@ -18,7 +18,7 @@
 
 ---
 
-> The **Password Generator** is my third static website, I use a technique that can be reused in the code, which provides the choice for the user to select the suitable password.
+> The **Password Generator** is my third static website, I use a technique that can be reused in the code, which provides the choice for the user to select a suitable password.
 
 I start the Scrimba Module 2 course- Web dev basics and learn how to use basic HTML, CSS, and JavaScript knowledge. At the end of the course, I follow the Figma template to finish a password generator to create the random number, take a look at the → [Password Generator](https://shiuandai.github.io/Password-Generator/).
 
