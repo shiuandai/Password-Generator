@@ -22,13 +22,12 @@
 
 I start the Scrimba Module 2 course- Web dev basics and learn how to use basic HTML, CSS, and JavaScript knowledge. At the end of the course, I follow the Figma template to finish a password generator to create the random number, take a look at the → [Password Generator](https://shiuandai.github.io/Password-Generator/).
 
-## How I start the project?
+## How did I start the project?
 
 * Ensure all points are taken into consideration from Figma Template. → [Figma Template from Scrimba](https://www.figma.com/file/NEj9JDycMjF3XKXq7swoc9/Random-Password-Generator-(New-version)?type=design&node-id=102-702&mode=design&t=13ZXwjZVDKEUibmD-0)
-* Having a materials preparation document where I collect pictures/text information/text font/color to match a better visual communication and coherence in one page.
-* It's important to brainstorm the HTML structure before starting coding, this step helps me save the time.
-* Use the "DRY" concept (Don't Repeat Yourself), so that I learn from tailoring the developer's code and learn from it and Scrimba course.
-* To show the completed work between a Web and a template, I prefer refining the CSS code to make sure the project can align the design.
+* Generate two random passwords when the user clicks the button.
+* Each password should be 16 characters long.
+* Use the "While Loop" concept to create the random character.
 
 ---
 
