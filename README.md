@@ -18,13 +18,13 @@
 
 ---
 
-> The **Password Generator** is my third static website in which I introduce my hometown spots and the brief information to visitors who can review from and knowing more Taiwanese culture. Welcome to contact me if you need a local tour guide.
+> The **Password Generator** is my third static website, I use a technique that can be reused in the code, which provides the choice for the user to select the suitable password.
 
-I start the Scrimba Module 2 course- Web dev basics and learn how to use the basic HTML & CSS knowledge. At the end of the course, I follow the Figma template to finish my hometown page where you can know more about me, take a look on the → [Password Generator](https://shiuandai.github.io/Password-Generator/).
+I start the Scrimba Module 2 course- Web dev basics and learn how to use basic HTML, CSS, and JavaScript knowledge. At the end of the course, I follow the Figma template to finish a password generator to create the random number, take a look at the → [Password Generator](https://shiuandai.github.io/Password-Generator/).
 
 ## How I start the project?
 
-* Ensure all points are taken into consideration from Figma Template. → [Figma Template from Scrimba](https://www.figma.com/file/2QuGfAOcHaZJ6aHXfuamnK/Hometown-Homepage?type=design&node-id=0%3A1&mode=design&t=JhG1UWTiUmIeW14l-1)
+* Ensure all points are taken into consideration from Figma Template. → [Figma Template from Scrimba](https://www.figma.com/file/NEj9JDycMjF3XKXq7swoc9/Random-Password-Generator-(New-version)?type=design&node-id=102-702&mode=design&t=13ZXwjZVDKEUibmD-0)
 * Having a materials preparation document where I collect pictures/text information/text font/color to match a better visual communication and coherence in one page.
 * It's important to brainstorm the HTML structure before starting coding, this step helps me save the time.
 * Use the "DRY" concept (Don't Repeat Yourself), so that I learn from tailoring the developer's code and learn from it and Scrimba course.
