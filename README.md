@@ -8,12 +8,12 @@
 
 ## Table of Contents
 * **[1. Design requirements](#1---design-requirements)**
-	* [1.1 Structure Design](#11---grid-system)
+	* [1.1 Structure Design](#11---Structure-design)
 	* [1.2 Colors](#12---colors)
 	* [1.3 Fonts and texts](#13---fonts-and-texts)
 	* [1.4 Publish files](#14---publish-files)
 * **[2. Pre-work phases](#2---pre-work-phases)**
-	* [2.1 For Loop & While Loop](#21---For--Loop--&--While--Loop)
+	* [2.1 For Loop & While Loop](#21---For-Loop-&-While-Loop)
 * **[3. Before production](#3---before-production)**
 
 ---
