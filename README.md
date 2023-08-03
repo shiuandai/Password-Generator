@@ -41,7 +41,7 @@ Designing a password generator website requires following some rules and taking 
 	> ℹ️ [Function] GET to know more about the definition. → [W3School](https://www.w3schools.com/js/js_functions.asp)
 
 * [ ] **JavaScript While Loop**. 
-* [ ] Before working on each website project, I can **build every templates** with my own strcuture concept. Building the structure before everything else, will facilitate my work afterwards.
+* [ ] Before working on each website project, I can **build every template** and **organize the div** with my own structure concept. Building the structure before everything else will facilitate my work afterward.
 
 ```html
 <div class="container">
@@ -52,7 +52,7 @@ Designing a password generator website requires following some rules and taking 
 </div>
 ```
 
-⚠️ *Use the "container" to define which tags should be contained inside, they perform "active" when using the **flex-box**, it is a crucial method to foster the web strcture building.* 
+⚠️ *Use the "container" to define which tags should be contained inside, they perform "active" when using the **flex-box**, it is a crucial method to foster the web structure building.* 
 
 **[⬆ back to top](#table-of-contents)**
 
@@ -62,7 +62,7 @@ You can "SAVE" your color preference in your account. → [Color Palette](https:
 
 * [ ] **All colors used in the creatives are named** (RED: #E63946, LIGHT: #F1FAEE, AQUA: #A8DADC, LIGHT BLUE: #457B9D, DARK BLUE: #1D3557) which are provided by Scrimba course so that they become the basic color guideline to use in my project.
 
-* [ ] All or the most important/used **colors contrast** in the design to allow text with the background can be easily read.
+* [ ] All of the most important/used **colors contrast** in the design to allow text with the background can be easily read. There are two types of design that can be chosen. Light mode or Dark mode in the template.
 
 **[⬆ back to top](#table-of-contents)**
 
