@@ -13,7 +13,7 @@
 	* [1.3 Fonts and texts](#13---fonts-and-texts)
 	* [1.4 Publish files](#14---publish-files)
 * **[2. Pre-work phases](#2---pre-work-phases)**
-	* [2.1 Refine the project using CSS](#21---refine-the-project-using-CSS)
+	* [2.1 For Loop & While Loop](#21---For--Loop--&--While--Loop)
 * **[3. Before production](#3---before-production)**
 
 ---
