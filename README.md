@@ -1,7 +1,7 @@
 <h2 align="center">Password-Generator</h2>
 
 <p align="center">
-  <em> The hometown homepage is my third project of the Scrimba Front-End course, in this course, I build a password generator from scratch and learn to code a function to generate a random password.</em>
+  <em> The password generator is my third project of the Scrimba Front-End course, in this course, I build a password generator from scratch and learn to code a function to generate a random password.</em>
 </p>
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com) [![Join the chat at https://gitter.im/Front-End-Checklist/Front-End-Design-Checklist](https://badges.gitter.im/Front-End-Checklist/Front-End-Design-Checklist.svg)](https://gitter.im/Front-End-Checklist/Front-End-Design-Checklist) [![CC0](https://img.shields.io/badge/license-CC0-green.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
