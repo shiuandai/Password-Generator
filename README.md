@@ -60,9 +60,9 @@ Designing a password generator website requires following some rules and taking 
 
 You can "SAVE" your color preference in your account. → [Color Palette](https://scrimba.com/links/hometown-palette)
 
-* [ ] **All colors used in the creatives are named** (RED: #E63946, LIGHT: #F1FAEE, AQUA: #A8DADC, LIGHT BLUE: #457B9D, DARK BLUE: #1D3557) which are provided by Scrimba course so that they become the basic color guideline to use in my project.
+* [ ] **All colors used in the creatives are named** (DARK BLUE: #273549, GREEN: #10B981, LIGHT GREEN: #5DEF92) which are provided by Scrimba course so that they become the basic color guideline to use in my project.
 
-* [ ] All of the most important/used **colors contrast** in the design to allow text with the background can be easily read. There are two types of design that can be chosen. Light mode or Dark mode in the template.
+* [ ] All of the most important/used **colors contrast** in the design to allow text with the background can be easily read. There are two types of design that can be chosen for practice. Light mode or Dark mode in the template.
 
 **[⬆ back to top](#table-of-contents)**
 
@@ -70,14 +70,14 @@ You can "SAVE" your color preference in your account. → [Color Palette](https:
 
 Fonts are an essential part of every design.
 
-It is recommended to organise the font size and style in the design process. There are several website where the designer can download the font.([Google font](https://fonts.google.com/)).
+It is recommended to organize the font size and style in the design process. There are several websites where the designer can download the font. ([Google font](https://fonts.google.com/)). In this case, 'Karla' & 'Inter' are used in the header and description.
 
-* [ ] Using the technique **@font-face** in CSS, the link is embedded to the CSS. 
+* [ ] Using the technique **@font-face** in CSS, the link is embedded in the CSS. 
 
   __Resources:__
 	* 📖 [Using @font-face | CSS-Tricks](https://css-tricks.com/snippets/css/using-font-face/)
 
-* [ ] The **Web Safe Fonts** is an important concept. Web safe fonts are fonts that are pre-installed by many operating systems. While not all systems have the same fonts installed, you can use a web safe font stack to choose several fonts that look similar, and are installed on the various systems that you want to support.
+* [ ] The **Web Safe Fonts** is an important concept. Web-safe fonts are fonts that are pre-installed by many operating systems. While not all systems have the same fonts installed, you can use a web-safe font stack to choose several fonts that look similar and are installed on the various systems that you want to support.
 
 **[⬆ back to top](#table-of-contents)**
 
