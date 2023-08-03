@@ -84,21 +84,21 @@ It is recommended to organize the font size and style in the design process. The
 
 ### 1.4 - Publish files
 
-* [ ] How to host your website, there are several ways. 1. **Netlify** provides next-generation web hosting and automation that's very affordable. Is can be integrated with Github for publishing web easily. The alternative is using Github Page, my way is to use Github Page. → [Comparison of Github Page and Netlify](https://www.freecodecamp.org/news/publish-your-website-netlify-github/) 
+* [ ] How to host your website, there are several ways. 1. **Netlify** provides next-generation web hosting and automation that's very affordable. It can be integrated with Github for publishing the web easily. The alternative is using Github Page, my way is to use Github Page. → [Comparison of Github Page and Netlify](https://www.freecodecamp.org/news/publish-your-website-netlify-github/) 
 
 ## 2. - Pre-work phases
 
-### 2.1 - Refine the project using CSS
+### 2.1 - For Loop & While Loop
 
-It is recommended to master **flex-box** concept, it usually combine with different **Property** like **flex-direction: column; align-items: center;** .
+It is recommended to master the **for loop** concept, it is usually used to generate a series of numbers.
 
-Define what condition to use the flex-box, it influences on how the content display.
+The **condition** can be used in a different situation, like **>**, **+=** etc.
 
-⚠️ *When use the flex-box, it is good to use property of "gap" rather than "margin" to generate the gap.*
+⚠️ *When using the **while loop**, it can execute a block of code as long as a specified condition is true.* Bear in mind the T/F condition. [While Loop](https://www.w3schools.com/js/js_loop_while.asp#gsc.tab=0)
 
 ## 3. - Before production
 
-Before launching your website, be sure to review all your code and make sure the text layout and comment it's easy to read for other programmer.
+Before launching your website, be sure to review all your code and make sure the text layout and comment it's easy to read for another programmer.
 
 **[⬆ back to top](#table-of-contents)**
 
