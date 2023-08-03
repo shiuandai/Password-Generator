@@ -33,14 +33,14 @@ I start the Scrimba Module 2 course- Web dev basics and learn how to use basic H
 
 ## 1. - Design requirements
 
-Designing a homwtown homepage website requires following some rules and taking into consideration that the project is not only a graphic project but a web project too. The next sections are crucial for any web project.
+Designing a password generator website requires following some rules and taking into consideration that the project is not only a graphic project but a web project too. The next sections are crucial for any web project.
 
 ### 1.1 - Structure design
 
-* [ ] **HTML** is "HyperText Markup Language" It defines the meaning and structure of web content. The Web Designer should keep the structure simple and the similar content chould be grouped together to make sure it can be read clearly.
-	> ℹ️ [HTML] GET to know more about the definition. → [MDN](https://developer.mozilla.org/en-US/docs/Web/HTML)
+* [ ] The code inside the function will execute when "something" **invokes (calls)** the function:
+	> ℹ️ [Function] GET to know more about the definition. → [W3School](https://www.w3schools.com/js/js_functions.asp)
 
-* [ ] **Be familiar with the HTML Tag**. 
+* [ ] **JavaScript While Loop**. 
 * [ ] Before working on each website project, I can **build every templates** with my own strcuture concept. Building the structure before everything else, will facilitate my work afterwards.
 
 ```html
