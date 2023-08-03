@@ -92,6 +92,11 @@ It is recommended to organize the font size and style in the design process. The
 
 It is recommended to master the **for loop** concept, it is usually used to generate a series of numbers.
 
+```js
+for ( let count = 10;  count < 21;  count += 1 )  {
+    console.log(count)
+} //remember to write "let"
+```
 The **condition** can be used in a different situation, like **>**, **+=** etc.
 
 ⚠️ *When using the **while loop**, it can execute a block of code as long as a specified condition is true.* Bear in mind the T/F condition. [While Loop](https://www.w3schools.com/js/js_loop_while.asp#gsc.tab=0)
