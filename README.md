@@ -20,7 +20,7 @@
 
 > The **Password Generator** is my third static website, I use a technique that can be reused in the code, which provides the choice for the user to select a suitable password.
 
-I start the Scrimba Module 2 course- Web dev basics and learn how to use basic HTML, CSS, and JavaScript knowledge. At the end of the course, I follow the Figma template to finish a password generator to create the random number, take a look at the → [Password Generator](https://shiuandai.github.io/Password-Generator/).
+I start the Scrimba Module 3 course- Making websites interactive and learn how to use basic HTML, CSS, and JavaScript knowledge. At the end of the course, I follow the Figma template to finish a password generator to create the random number, take a look at the → [Password Generator](https://shiuandai.github.io/Password-Generator/).
 
 ## How did I start the project?
 
